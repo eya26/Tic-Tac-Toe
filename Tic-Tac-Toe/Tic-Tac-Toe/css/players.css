@@ -4,17 +4,17 @@
     justify-content: space-around;
 }
 
-.player{
+#players .player{
     text-align: center;
     border: 1px solid lightseagreen;
     width: 30%;
     padding: 20px;
 }
 
-.player .name{
+#players .player .name{
     font-weight: 700;
 }
 
-.player .score{
+#players .player .score{
     font-size:  2rem;
 }
