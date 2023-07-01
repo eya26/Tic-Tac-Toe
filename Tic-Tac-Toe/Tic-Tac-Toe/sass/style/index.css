@@ -1,0 +1,12 @@
+body {
+  background-color: bisque;
+}
+body h2 {
+  color: red;
+}
+body nav h2 {
+  background-color: aquamarine;
+}
+body nav h2:hover {
+  background-color: black;
+}/*# sourceMappingURL=index.css.map */

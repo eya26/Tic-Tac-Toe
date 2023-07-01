@@ -1,8 +1,9 @@
 #msg {
-    background-color: lightseagreen;
-    color: lightgreen;
+    background-color: red;
+    color: white;
     padding: 1rem;
     font-size: 1.2rem;
     display: none;
     margin-top: 2rem;
+    border-radius: 10px;
 }

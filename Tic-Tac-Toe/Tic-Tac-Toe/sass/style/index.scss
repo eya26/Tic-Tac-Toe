@@ -1,0 +1,17 @@
+
+body {
+    background-color: bisque;
+    h2 {
+        color: red;
+    }
+
+    nav {
+        h2{
+            background-color: aquamarine;
+
+            &:hover {
+                background-color: black;
+            }
+        }
+    }
+}

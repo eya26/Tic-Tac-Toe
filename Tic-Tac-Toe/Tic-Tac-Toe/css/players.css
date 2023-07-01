@@ -2,19 +2,27 @@
     margin-top: 1rem;
     display: flex;
     justify-content: space-around;
+    font-family: serif;
 }
 
 #players .player{
+    display: flex;
     text-align: center;
-    border: 1px solid lightseagreen;
     width: 30%;
     padding: 20px;
 }
 
 #players .player .name{
     font-weight: 700;
+    font-size: 2rem;
+    color: steelblue;
+    margin-right: 50px;
+    margin-left: 50px;
 }
+
+
 
 #players .player .score{
     font-size:  2rem;
+    color: gray;
 }
