@@ -12,7 +12,8 @@
     padding: 50px 0;
     border: 1px solid gray;
     font-size: 40px;
-    color: #B77B82;
+    color: black;
+    font-family: cursive ;
 }
 
 #grid .cell:hover{

@@ -26,7 +26,14 @@ footer{
 }
 
 a{
-    color: white;
-    background-color: red;
+    color: blue;
+}
+
+#Game-msg{
+    text-align: center;
+    font-weight: bold;
+    margin-top: 3rem;
+    font-size: 1.5rem;
+    font-family: serif;
 }
 

@@ -55,7 +55,7 @@ const verify = () => {
       CellsEl[b].innerHTML === playerStick[currentPlayer] &&
       CellsEl[c].innerHTML === playerStick[currentPlayer]
     ) {
-        winner = playerStick[currentPlayer];
+        winner = playerName[currentPlayer];
     }
 
   }
